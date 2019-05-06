@@ -9,4 +9,6 @@ def user():
 	return 'ZV_chain'
 def password():
 	return 'zvchain2019318'
+def userAgent():
+	return "Windows by Syahrul@Talenta"
 	

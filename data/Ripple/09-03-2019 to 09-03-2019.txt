@@ -1,0 +1,1 @@
+{"Ripple": [{"title": "Development of ripple products? (XCurrent, Xrapid, Xvia)", "date": "09-03-2019", "score": 57, "link": "/r/Ripple/comments/ayu4gu/development_of_ripple_products_xcurrent_xrapid/"}, {"title": "Time to meet Bob!", "date": "09-03-2019", "score": 92, "link": "/r/Ripple/comments/ayx9q9/time_to_meet_bob/"}]}
